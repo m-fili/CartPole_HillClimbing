@@ -31,12 +31,15 @@ in `Navigation.ipynb`.
 ### 4. Results
 The results for all four methods are shown below:
 
-
+#### Hill Climbing
 <img src="Images/vanilla_hill_climbing.png" height="250" title="Vanilla Hill Climbing">
 
+#### Steepest Ascent Hill Climbing
 <img src="Images/steepest_ascent.png" height="250" title="Steepest Ascent">
 
+#### Simulated Annealing
 <img src="Images/simulated_annealing.png" height="250" title="Simulated Annealing">
 
+#### Adaptive Noise Scaling
 <img src="Images/adaptive_noise_scaling.png" height="250" title="Adaptive Noise Scaling">
 
