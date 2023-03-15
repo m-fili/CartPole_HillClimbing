@@ -24,22 +24,15 @@ models are:
 * Adaptive Noise Scaling
 
 ### 3. Implementation
+
+#### 3.1. Install dependencies
+please use the following code to install the packages needed:
+
+```
+pip install --upgrade pip
+pip install -r requirements.txt
+```
+
+#### 3.2. Run
 To train an agent to keep the cartpole in balance, please follow the instructions
 in `Navigation.ipynb`.
-
-
-### 4. Results
-The results for all four methods are shown below:
-
-#### Hill Climbing
-<img src="Images/vanilla_hill_climbing.png" height="250" title="Vanilla Hill Climbing">
-
-#### Steepest Ascent Hill Climbing
-<img src="Images/steepest_ascent.png" height="250" title="Steepest Ascent">
-
-#### Simulated Annealing
-<img src="Images/simulated_annealing.png" height="250" title="Simulated Annealing">
-
-#### Adaptive Noise Scaling
-<img src="Images/adaptive_noise_scaling.png" height="250" title="Adaptive Noise Scaling">
-
